@@ -56,7 +56,7 @@ All configuration with the Nextra theme is done in `theme.config.tsx`. Some conf
 
 The banner dismissal is saved in localStorage. Update the `key` when the `text` is updated to ensure the banner is shown again for all users.
 
-```json
+```js
   banner: {
     key: "welcome",
     text: "🍄 Welcome to micodose.wiki!",
