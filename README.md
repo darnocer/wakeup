@@ -1,5 +1,7 @@
 # 🍄 Microdose.wiki
 
+# 🚧 CURRENTLY UNDER CONSTRUCTION
+
 ## ✨ Overview
 
 The goal of this project is to share accurate information about microdosing, specifically with psilocybin mushrooms, for someone that may be interested in trying microdosing as a means of improving their cognition or wellbeing. The information on this site is not comprehensive, but is designed to provide an overview in order to aid making an informed decision on whether or not microdosing is right for them. It is not a replacement for consulting with a medical professional.
