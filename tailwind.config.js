@@ -8,6 +8,22 @@ module.exports = {
     "./pages/**/*.{js,jsx,ts,tsx,md,mdx,json}",
     "./components/**/*.{js,jsx,ts,tsx,css}",
   ],
+  safelist: [
+    "relative",
+    "rounded-xl",
+    "bg-neutral-500",
+    "w-full",
+    "min-h-40",
+    "flex",
+    "flex-col",
+    "p-4",
+    "text-xl",
+    "mb-2",
+    "absolute",
+    "bottom-2",
+    "right-2",
+    "z-0",
+  ],
   theme: {
     fontFamily: {
       sans: ["Rubik", "sans-serif", ...defaultTheme.fontFamily.sans],
