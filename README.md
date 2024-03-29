@@ -1,6 +1,4 @@
-# 🍄 Microdose.wiki
-
-# 🚧 CURRENTLY UNDER CONSTRUCTION
+# 🍄 Visit [microdose.wiki](https://microdose.wiki)
 
 ## ✨ Overview
 
@@ -23,13 +21,13 @@ This site is using [Nextra](https://nextra.site/), a documentation site framewor
 Install dependencies:
 
 ```bash
-npm i
+pnpm install
 ```
 
 Run development server:
 
 ```bash
-npm run dev
+pnpm dev
 ```
 
 View on `http://localhost:3000/`.
@@ -169,4 +167,4 @@ This site was made by [Darian](https://darian.digital). You can get in touch wit
 
 ---
 
-> _WHILE WE'VE TRIED OUR BEST TO PROVIDE COMPREHENSIVE EDUCATIONAL INFORMATION, THIS GUIDE IS IN NO WAY A REPLACEMENT FOR DOING YOUR OWN RESEARCH AND CONSULTING WITH A MEDICAL PROFESSIONAL. ALWAYS BE AWARE OF THE RISKS BEFORE CONSUMING THESE MIND-ALTERING SUBSTANCES._
+> _WHILE WE'VE TRIED OUR BEST TO PROVIDE THOROUGH EDUCATIONAL INFORMATION, THIS GUIDE IS IN NO WAY A REPLACEMENT FOR DOING YOUR OWN RESEARCH AND CONSULTING WITH A MEDICAL PROFESSIONAL. ALWAYS BE AWARE OF THE RISKS BEFORE CONSUMING THESE MIND-ALTERING SUBSTANCES._
