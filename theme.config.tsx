@@ -2,9 +2,9 @@ import React from "react";
 import { useRouter } from "next/router";
 import { DocsThemeConfig } from "nextra-theme-docs";
 
-import Logo from "./Components/logo";
-import Metadata from "./Components/metadata";
-import TocCallout from "./Components/toccallout";
+import Logo from "./components/logo";
+import Metadata from "./components/metadata";
+import TocCallout from "./components/toccallout";
 
 const config: DocsThemeConfig = {
   logo: <Logo />,
