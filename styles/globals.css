@@ -2,7 +2,6 @@
 
 @tailwind base;
 @tailwind components;
-@import url("./dummy.css");
 @tailwind utilities;
 
 * {
