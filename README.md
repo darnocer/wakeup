@@ -153,10 +153,6 @@ This project is using Tailwind. Global Tailwind configuration is done in `tailwi
 
 The `@tailwind` directives were added to `globals.css` and the CSS was imported into `/pages/_app.tsx`.
 
-## ✉️ Contact
-
-This site was made by [Darian](https://darian.digital). You can get in touch with me at [darian@darian.digital](mailto:darian@darian.digital).
-
 ## 👯‍♀️ Contributing
 
 Contributions to the content are welcome, espescially if there is inaccurate information.
@@ -166,6 +162,10 @@ Contributions to the content are welcome, espescially if there is inaccurate inf
 3. Submit a pull request
 
 Be sure to include in the comments why you are making the change. Always include cited sources.
+
+## ✉️ Contact
+
+This site was made by [Darian](https://darian.digital). You can get in touch with me at [darian@darian.digital](mailto:darian@darian.digital).
 
 ---
 
