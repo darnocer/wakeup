@@ -10,16 +10,14 @@ const config: DocsThemeConfig = {
   logo: <Logo />,
   project: {
     link: "https://github.com/darnocer/microdose-faq",
+    icon: null,
   },
   docsRepositoryBase: "https://github.com/darnocer/microdose-faq",
-  footer: {
-    text: "Microdosing.wiki",
-  },
   useNextSeoProps() {
     const router = useRouter();
     if (router.asPath !== "/") {
       return {
-        titleTemplate: "%s | Microdosing 101",
+        titleTemplate: "%s | Microdose Wiki",
       };
     }
     return {};
@@ -46,6 +44,9 @@ const config: DocsThemeConfig = {
   },
   feedback: {
     content: null,
+  },
+  footer: {
+    component: null,
   },
 };
 
