@@ -22,9 +22,10 @@ const config: DocsThemeConfig = {
     }
     return {};
   },
+  darkMode: false,
   head: <Metadata />,
-  primaryHue: 281,
-  primarySaturation: 90,
+  primaryHue: 288,
+  primarySaturation: 87,
   search: {
     placeholder: "Search",
   },
@@ -34,6 +35,12 @@ const config: DocsThemeConfig = {
   },
   sidebar: {
     toggleButton: true,
+    titleComponent({ title, type }) {
+      if (type === "separator") {
+        return <div style={{ fontWeight: "bold" }}>{title}</div>;
+      }
+      return <>✨ {title}</>;
+    },
   },
   toc: {
     extraContent: <TocCallout />,
