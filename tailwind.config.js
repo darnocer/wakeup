@@ -3,6 +3,7 @@ const defaultTheme = require("tailwindcss/defaultTheme");
 const colors = require("tailwindcss/colors");
 
 module.exports = {
+  important: true,
   content: [
     "./pages/**/*.{js,jsx,ts,tsx,md,mdx}",
     "./components/**/*.{js,jsx,ts,tsx,md,mdx}",
@@ -20,5 +21,10 @@ module.exports = {
       },
     },
   },
-  plugins: ["@tailwindcss/typography"],
+  plugins: [
+    "@tailwindcss/typography",
+    "postcss-import",
+    "tailwindcss",
+    "autoprefixer",
+  ],
 };
