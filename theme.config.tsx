@@ -20,7 +20,9 @@ const config: DocsThemeConfig = {
         titleTemplate: "%s | Microdose Wiki",
       };
     }
-    return {};
+    return {
+      titleTemplate: "Getting Started | Microdose Wiki",
+    };
   },
   darkMode: false,
   head: <Metadata />,
@@ -47,7 +49,6 @@ const config: DocsThemeConfig = {
   },
   editLink: {
     text: "",
-    component: null,
   },
   feedback: {
     content: null,
