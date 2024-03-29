@@ -5,7 +5,7 @@
 @tailwind utilities;
 
 * {
-  font-family: "Rubik";
+  font-family: "Rubik", "sans-serif";
 }
 
 h1,
