@@ -4,10 +4,8 @@
 @tailwind components;
 @tailwind utilities;
 
-@layer base {
-  * {
-    font-family: "Rubik", "sans-serif";
-  }
+* {
+  font-family: "Rubik", "sans-serif";
 }
 
 @layer base {
