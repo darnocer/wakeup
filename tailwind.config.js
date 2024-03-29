@@ -7,6 +7,7 @@ module.exports = {
   content: [
     "./pages/**/*.{js,jsx,ts,tsx,md,mdx,json}",
     "./components/**/*.{js,jsx,ts,tsx,css}",
+    "./public",
   ],
   safelist: [
     "relative",
