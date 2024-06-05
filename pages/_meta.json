@@ -8,12 +8,13 @@
   "why-microdose": "Why would someone want to microdose?",
   "psilocybin": "What is psilocybin?",
   "psilocybin-vs-lsd": "How does psilocybin differ from LSD?",
-  "feeling": "What does microdosing feel like?",
-  "subperceptual": "What is the point of a 'subperceptual' dose?",
+
   "Effects": {
     "type": "separator",
     "title": "Effects"
   },
+  "feeling": "What does microdosing feel like?",
+  "subperceptual": "What is the point of a 'subperceptual' dose?",
   "benefits": "What are the known benefits?",
   "negative": "What are the negative side effects?",
   "experience": "How do you have a good experience?",
