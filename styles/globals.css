@@ -18,3 +18,7 @@
     font-weight: 700 !important;
   }
 }
+
+.text-xl-test {
+  font-size: 2rem;
+}

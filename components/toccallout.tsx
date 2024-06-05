@@ -4,7 +4,7 @@ import Link from "next/link";
 const TocCallout = () => (
   <Link href="#" className="relative block">
     <div className="rounded-xl bg-neutral-500 w-full min-h-40 flex flex-col p-4  relative">
-      <h3 className="text-xl mb-2">Got feedback?</h3>
+      <h3 className="text-xl-test mb-2">Got feedback?</h3>
       <p>
         Safety is our priority and we aim to provide thorough and accurate
         information. Let us know if we need to make a correction!
