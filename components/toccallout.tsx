@@ -6,8 +6,7 @@ const TocCallout = () => (
     <div className="rounded-xl bg-neutral-500 w-full min-h-40 flex flex-col p-4  relative">
       <h3 className="text-xl mb-2">Got feedback?</h3>
       <p>
-        Safety is our priority and we aim to provide thorough and accurate
-        information. Let us know if we need to make a correction!
+        Safety is our priority. Let us know if we need to make a correction!
       </p>
     </div>
     <svg
