@@ -21,10 +21,4 @@ module.exports = {
       },
     },
   },
-  plugins: [
-    "@tailwindcss/typography",
-    "postcss-import",
-    "tailwindcss",
-    "autoprefixer",
-  ],
 };
