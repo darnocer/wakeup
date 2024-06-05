@@ -5,4 +5,6 @@ const withNextra = require("nextra")({
   standalone: true,
 });
 
-module.exports = withNextra();
+module.exports = withNextra({
+  cssModules: true,
+});
