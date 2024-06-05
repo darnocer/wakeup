@@ -5,4 +5,10 @@ const withNextra = require("nextra")({
   standalone: true,
 });
 
-module.exports = withNextra();
+module.exports = withNextra({
+  reactStrictMode: true,
+  swcMinify: true,
+  images: {
+    unoptimized: true,
+  },
+});
