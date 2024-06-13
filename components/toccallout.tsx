@@ -2,7 +2,7 @@ import React from "react";
 import Link from "next/link";
 
 const TocCallout = () => (
-  <Link href="#" className="relative block">
+  <Link href="mailto:hello@microdose.wiki" className="relative block">
     <div className="rounded-xl bg-neutral-500 w-full min-h-40 flex flex-col p-4  relative">
       <h3 className="text-xl mb-2">Got feedback?</h3>
       <p>
