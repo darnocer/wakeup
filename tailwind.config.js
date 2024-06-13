@@ -13,6 +13,9 @@ module.exports = {
       sans: ["Rubik", "sans-serif", ...defaultTheme.fontFamily.sans],
     },
     extend: {
+      fontSize: {
+        xxs: ".6rem",
+      },
       colors: {
         neutral: {
           500: "#1b2024",
