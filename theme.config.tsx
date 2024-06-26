@@ -4,7 +4,10 @@ import { DocsThemeConfig } from "nextra-theme-docs";
 
 import Logo from "./components/logo";
 import Metadata from "./components/metadata";
-import TocCallout from "./components/toccallout";
+import TocExtra from "./components/TocExtra";
+// import EditLink from "./components/editlink";
+
+import NewsletterSubscription from "./components/NewsletterSubscription";
 
 const config: DocsThemeConfig = {
   logo: <Logo />,
@@ -45,10 +48,11 @@ const config: DocsThemeConfig = {
     },
   },
   toc: {
-    extraContent: <TocCallout />,
+    extraContent: <TocExtra />,
   },
   editLink: {
     text: "",
+    component: null,
   },
   feedback: {
     content: null,
