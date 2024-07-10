@@ -35,8 +35,13 @@ const config: DocsThemeConfig = {
     placeholder: "Search",
   },
   banner: {
-    key: "welcome1",
-    text: "🍄 Welcome to micodose.wiki!",
+    key: "educationSession",
+    text: (
+      <a href="https://www.thekarmahouse.org/" target="_blank">
+        🍄 Join us at The Karma House in Denver for a free microdosing Q&A
+        session on August 1st at 6PM! 🍄
+      </a>
+    ),
   },
   sidebar: {
     toggleButton: true,
