@@ -1,5 +1,5 @@
 import React from "react";
-import TocCallout from "./TocCallout_temp";
+import TocCallout from "./TocCallout";
 import NewsletterSubscription from "./NewsletterSubscription";
 
 const TocExtra = () => (
