@@ -29,31 +29,23 @@ const config: DocsThemeConfig = {
   },
   darkMode: false,
   head: <Metadata />,
-  primaryHue: 288,
-  primarySaturation: 87,
+  primaryHue: 193,
+  primarySaturation: 100,
   search: {
     placeholder: "Search",
   },
-  banner: {
-    key: "educationSession",
-    text: (
-      <a href="https://www.thekarmahouse.org/" target="_blank">
-        🍄 Join us at The Karma House in Denver for a free microdosing Q&A
-        session on August 1st at 6PM! 🍄
-      </a>
-    ),
-  },
+
   sidebar: {
     toggleButton: true,
     titleComponent({ title, type }) {
       if (type === "separator") {
         return <div style={{ fontWeight: "bold" }}>{title}</div>;
       }
-      return <>✨ {title}</>;
+      return <>🧿 {title}</>;
     },
   },
   toc: {
-    extraContent: <TocExtra />,
+    extraContent: null,
   },
   editLink: {
     text: "",

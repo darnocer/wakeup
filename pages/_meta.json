@@ -1,46 +1,23 @@
 {
   "index": "Introduction",
-  "Basics": {
+  "Healthcare & Pharma": {
     "type": "separator",
-    "title": "Basics"
+    "title": "Healthcare & Pharma"
   },
-  "microdosing": "What is microdosing?",
-  "why-microdose": "Why would someone want to microdose?",
-  "psilocybin": "What is psilocybin?",
-  "psilocybin-vs-lsd": "How does psilocybin differ from LSD?",
-  "Effects": {
+  "Food & Nutrition": {
     "type": "separator",
-    "title": "Effects"
+    "title": "Food & Nutrition"
   },
-  "feeling": "What does microdosing feel like?",
-  "subperceptual": "What is the point of a 'subperceptual' dose?",
-  "benefits": "What are the known benefits?",
-  "negative": "What are the negative side effects?",
-  "experience": "How do you have a good experience?",
-  "maximize": "How do you get the most out of microdosing?",
-  "Safety": {
+  "Environment": {
     "type": "separator",
-    "title": "Safety"
+    "title": "Environment"
   },
-  "safety": "Is microdosing safe?",
-  "risks": "What are the risks?",
-  "antidepressants": "Can you microdose while taking antidepressants?",
-  "Science": {
+  "Media": {
     "type": "separator",
-    "title": "Science"
+    "title": "Media"
   },
-  "science": "What science is there about microdosing?",
-  "placebo": "Could it just be a placebo?",
-  "Dosage & Schedules": {
+  "Technology": {
     "type": "separator",
-    "title": "Dosage & Schedules"
-  },
-  "dosage": "What is the proper dosage?",
-  "measuring": "How do you measure a dose?",
-  "schedule": "How often do you microdose?",
-  "Legality": {
-    "type": "separator",
-    "title": "Legality"
-  },
-  "legality": "Is microdosing legal?"
+    "title": "Technology"
+  }
 }

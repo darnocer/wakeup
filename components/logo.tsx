@@ -6,9 +6,9 @@ const Logo = () => (
   <>
     <Image src="/logo.png" alt="microdose logo" width="30" height="30" />
     <span style={{ marginLeft: ".4em", marginRight: ".4em", fontWeight: 800 }}>
-      Microdose.Wiki
+      wakeupwakeupwakeup
     </span>
-    <Badge text="Beta" />
+    {/* <Badge text="Beta" /> */}
   </>
 );
 

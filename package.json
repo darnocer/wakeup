@@ -1,7 +1,7 @@
 {
-  "name": "microdose.wiki",
+  "name": "wakeupwakewakeup",
   "version": "0.0.1",
-  "description": "FAQ for microdosing with psilocybin",
+  "description": "WAKE UP",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

@@ -1,12 +1,6 @@
-# 🍄 Visit [microdose.wiki](https://microdose.wiki)
+# Visit 👁️ [wakeupwakeupwakeup.com]
 
 ## ✨ Overview
-
-The goal of this project is to share accurate information about microdosing, specifically with psilocybin mushrooms, for someone that may be interested in trying microdosing as a means of improving their cognition or wellbeing. The information on this site is not comprehensive, but is designed to provide an overview in order to aid making an informed decision on whether or not microdosing is right for them. It is not a replacement for consulting with a medical professional.
-
-### Full Obligatory Disclaimer
-
-> _MICRODOSING IS NOT FOR EVERYONE. This guide is purely for informational and educational purposes in order to support the safe and respectful use of sacred natural medicine for healing and transformation. We are not promoting mindless consumption of these powerful substances. Always do your own research and consult with a medical professional, especially if you are taking antidepressants, and especially if you are taking SSRIs. We are not doctors, and any information we share is not intended to treat, diagnose, or cure any physical or mental illness. If you choose to microdose or consume any dose of any psychedelic substance, you choose to do so as a personal choice of your own free will, not because of the recommendation of any outside parties, including us. Please take full ownership and responsibility for your own choices, especially those impacting your mental and physical health <3_
 
 ## 💻 Development
 

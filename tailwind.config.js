@@ -20,7 +20,7 @@ module.exports = {
         neutral: {
           500: "#1b2024",
         },
-        primary: colors.purple["500"],
+        primary: colors.sky["500"],
       },
     },
   },
