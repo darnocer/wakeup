@@ -12,19 +12,19 @@ import NewsletterSubscription from "./components/NewsletterSubscription";
 const config: DocsThemeConfig = {
   logo: <Logo />,
   project: {
-    link: "https://github.com/darnocer/microdose-faq",
+    link: "https://github.com/darnocer/wakeup",
     icon: null,
   },
-  docsRepositoryBase: "https://github.com/darnocer/microdose-faq",
+  docsRepositoryBase: "https://github.com/darnocer/wakeup",
   useNextSeoProps() {
     const router = useRouter();
     if (router.asPath !== "/") {
       return {
-        titleTemplate: "%s | Microdose Wiki",
+        titleTemplate: "%s | WAKEUPWAKEUPWAKEUP",
       };
     }
     return {
-      titleTemplate: "Getting Started | Microdose Wiki",
+      titleTemplate: "WAKEUPWAKEUPWAKEUP",
     };
   },
   darkMode: false,
