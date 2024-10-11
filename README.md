@@ -1,6 +1,12 @@
-# Visit 👁️ [wakeupwakeupwakeup.com]
+# Visit 🧿 [wakeupwakeupwakeup.com](wakeupwakeupwakeup.com)
 
 ## ✨ Overview
+
+This site is dedicated to revealing the truths behind America's healthcare, media, and food systems, and exposing the hidden corruption that affects our daily lives. With the rise in independent media like podcasts and Substack, people every where are finally realizing the truth, and it can't be hidden for much longer.
+
+This is not intended to be conspiratorial, or political for that matter, but to present strictly the facts without sensationalism, cut through the noise, and give readers a straightforward account of the tangled mess we're dealing with. This information is for ALL people, no matter your views. It's time to WAKE UP and take informed action before it's too late.
+
+---
 
 ## 💻 Development
 
@@ -8,7 +14,7 @@
 
 <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 
-This site is using [Nextra](https://nextra.site/), a documentation site framework using Next.js and MDX
+This site is using [Nextra](https://nextra.site/), a documentation site framework using Next.js and MDX.
 
 ### Getting Started
 
@@ -53,7 +59,7 @@ The banner dismissal is saved in localStorage. Update the `key` when the `text` 
 ```js
   banner: {
     key: "welcome",
-    text: "🍄 Welcome to micodose.wiki!",
+    text: "Welcome to the website!",
   },
 ```
 
@@ -145,20 +151,8 @@ This project is using Tailwind. Global Tailwind configuration is done in `tailwi
 
 The `@tailwind` directives were added to `globals.css` and the CSS was imported into `/pages/_app.tsx`.
 
-## 👯‍♀️ Contributing
-
-Contributions to the content are welcome, espescially if there is inaccurate information.
-
-1. Fork the project
-2. Make the necessary edits to the markdown files
-3. Submit a pull request
-
-Be sure to include in the comments why you are making the change. Always include cited sources.
-
 ## ✉️ Contact
 
 This site was made by [Darian](https://darian.digital). You can get in touch with me at [darian@darian.digital](mailto:darian@darian.digital).
 
 ---
-
-> _WHILE WE'VE TRIED OUR BEST TO PROVIDE THOROUGH EDUCATIONAL INFORMATION, THIS GUIDE IS IN NO WAY A REPLACEMENT FOR DOING YOUR OWN RESEARCH AND CONSULTING WITH A MEDICAL PROFESSIONAL. ALWAYS BE AWARE OF THE RISKS BEFORE CONSUMING THESE MIND-ALTERING SUBSTANCES._
